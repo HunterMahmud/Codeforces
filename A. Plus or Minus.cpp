@@ -1,3 +1,4 @@
+//url = https://codeforces.com/contest/1807/problem/A
 #include <bits/stdc++.h>
 #include<iostream>
 #include<vector>
